@@ -1,3 +1,4 @@
+
 -- Scenario 1: Apply discount to loan interest rates for customers above 60 years old
 
 DECLARE
